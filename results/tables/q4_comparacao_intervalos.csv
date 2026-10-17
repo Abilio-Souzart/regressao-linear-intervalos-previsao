@@ -1,0 +1,5 @@
+,cobertura,largura_media,largura_mediana,% limite inferior < 0
+Tradicional (OLS),0.9868,28.3776,28.2082,0.8684
+Bootstrap percentil,0.9737,19.1619,18.821,0.7105
+Split conformal,0.9868,18.5969,18.5969,0.7237
+Bootstrap original (só coeficientes),0.4605,5.1896,3.8202,0.5

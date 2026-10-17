@@ -1,0 +1,4 @@
+,R2,R2_ajustado,AIC
+Original,0.8215,0.8182,2062.9495
+"Com log(horsepower), log(weight)",0.8518,0.8491,1989.9557
+"Com horsepower², weight²",0.8642,0.861,1959.8672
